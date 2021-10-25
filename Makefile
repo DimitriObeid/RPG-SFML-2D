@@ -1,6 +1,8 @@
 ## MAKEFILE FOR COMPILING THE BASH PARSER
 
-SRC		=	src/main.cpp		# SOURCE FILES
+# SOURCING FILES
+SRC		=	src/Main.cpp		\
+			src/Game.cpp
 
 
 
